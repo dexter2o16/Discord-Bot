@@ -6,7 +6,6 @@ Multipurpose Discord bot with moderation, music, and more.
 - Level system
 - Custom commands
 - Economy system
-
 ## Tech Stack
 - Node.js
 - Discord.js
