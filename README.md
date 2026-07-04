@@ -3,7 +3,7 @@ Multipurpose Discord bot with moderation, music, and more.
 ## Features
 - Music playback
 - Moderation tools
-- Level system
+-Level system
 - Custom commands
 - Economy system
 ## Tech Stack
