@@ -11,4 +11,3 @@ Multipurpose Discord bot with moderation, music, and more.
 - Discord.js
 - MongoDB
 - Redis
-## License
