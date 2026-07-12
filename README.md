@@ -8,4 +8,3 @@ Multipurpose Discord bot with moderation, music, and more.
 ## Tech Stack
 - Discord.js
 - MongoDB
-- Redis
