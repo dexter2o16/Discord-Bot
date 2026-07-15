@@ -4,7 +4,6 @@ Multipurpose Discord bot with moderation, music, and more.
 - Music playback
 - Moderation tools
 -  commands
-- Economy system
 ## Tech Stack
 - Discord.js
 - MongoDB
