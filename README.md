@@ -5,4 +5,4 @@ Multipurpose Discord bot with moderation, music, and more.
 -  commands
 -  ## Tech Stack
 - Discord.js
-- MongoDB
+- Mong
